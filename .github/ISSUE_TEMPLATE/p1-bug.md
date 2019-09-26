@@ -20,8 +20,8 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Severity**
+What impact is making you this bug - Major | Medium | Minor
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
